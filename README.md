@@ -69,6 +69,8 @@ The project aims to develop a hybrid recommendation system to tackle the challen
 
 The system employs a multi-faceted strategy, starting with topic identification through NLP on a sample dataset. It combines collaborative filtering using the NBC News Dataset and content-based filtering based on topic analysis. MongoDB is used for its flexibility and scalability, facilitating real-time recommendations.
 
+![image](https://github.com/user-attachments/assets/c79e6ecf-1886-4139-8de0-841e36de36cf)
+
 ## Implementation
 
 ### MongoDB Database Setup
@@ -128,16 +130,3 @@ The project successfully developed a hybrid news article recommendation system u
 ## Future Work
 
 Enhancements to the system include incorporating user profiles, real-time updates, a user feedback and rating system, scalability solutions, and performance optimization.
-
-## References
-
-1. J. Ben Schafer, Dan Frankowski, Jon Herlocker, and Shilad Sen, "Collaborative Filtering Recommender Systems," 2017.
-2. A. Wahana, D. S. Maylawati, B. A. Wiwaha, M. A. Ramdhani, and A. S. Amin, "News recommendation system using collaborative filtering method," 2019.
-3. Kateřina Kostolányová and Libor Klubal, "Use of user modeling for personalization," 2018.
-4. Chuhan Wu, Fangzhao Wu, Yongfeng Huang, Xing Xie, "Personalized News Recommendation: Methods and Challenges," 2021.
-5. Feng Zhu, Yan Wang, Chaochao Chen, Jun Zhou, Longfei Li, Guanfeng Liu, "Cross Domain Recommendation: Challenges, Progress, and Prospects," 2020.
-6. Cristian Bancu, Monica Dagadita, Mihai Dascalu, Ciprian Dobre, Stefan Trausan-Matu, Adina Magda Florea, "ARSYS - Article Recommender System," 2018.
-7. Jie Zhu, Braja G. Patra, Ashraf Yaseen, "Recommender system of scholarly papers using public datasets," 2021.
-8. Christin Katharina Kreutz, Ralf Schenkel, "Scientific Paper Recommendation Systems: a Literature Review of recent Publications," 2022.
-9. Deepjyoti Roy, Mala Dutta, "A systematic review and research perspective on recommender systems," 2022.
-10. Khalid Haruna, Maizatul Akmar Ismail, Damiasih Damiasih, Joko Sutopo, Tutut Herawan, "A collaborative approach for research paper recommender system," 2017.
