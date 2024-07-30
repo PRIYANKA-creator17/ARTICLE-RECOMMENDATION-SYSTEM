@@ -4,20 +4,6 @@
 
 This repository contains a project report on the development of a News Article Recommendation System using MongoDB. This system is designed to provide personalized news recommendations to users based on their preferences and behaviors.
 
-## Table of Contents
-
-1. [Abstract](#abstract)
-2. [Introduction](#introduction)
-3. [Literature Survey](#literature-survey)
-4. [Dataset Description](#dataset-description)
-5. [Existing System](#existing-system)
-6. [Problem Statement](#problem-statement)
-7. [Proposed Methodology](#proposed-methodology)
-8. [Implementation](#implementation)
-9. [Results](#results)
-10. [Conclusion](#conclusion)
-11. [Future Work](#future-work)
-12. [References](#references)
 
 ## Abstract
 
